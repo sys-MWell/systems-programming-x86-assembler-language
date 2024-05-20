@@ -6,7 +6,7 @@ This project is part of an assessment for a Systems Programming module, focused 
 
 ## Assessment Content
 
-A complete solution for the assignment will achieve the following:
+The solution for the assignment achieves the following:
 - **User Input for Sector Number**: Ask the user to enter the number of the sector they want to read.
 - **Display Sector Contents**: Display the contents of the specified sector in both hexadecimal and ASCII characters. Each line starts with the offset into the sector (displayed as a 4-digit hex number).
 - **Scrolling Display**: Display a smaller number of lines at a time (e.g., 16 lines) and pause until the user presses a key, then continue displaying the next set of lines.
@@ -41,3 +41,9 @@ A Perl script used to sign the bootable disk image. This script ensures that the
 - A terminal or command prompt on your system.
 - NASM assembler installed.
 - QEMU or another emulator to test the boot loader.
+
+### Screeshot of Usage
+![image](https://github.com/sys-MWell/systems-programming-x86-assembler-language/assets/74254544/38bcb597-280c-42ad-bcde-d83a7ab6ee6f)
+![image](https://github.com/sys-MWell/systems-programming-x86-assembler-language/assets/74254544/a616cc71-1aaa-4013-9c75-201bf13e06d1)
+
+
